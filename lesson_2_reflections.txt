@@ -9,3 +9,8 @@ and the repository? What value do you think it offers?
 Working directory refers to the whole directory while staging area
 refers to specific files we are tracking. We can chose wether or not 
 a file should be part of the next commit.
+
+- How can you use the staging area to make sure you have one commit 
+per logical change?
+
+By staging only those files which contributes to the logical change.
