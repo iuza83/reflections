@@ -20,3 +20,8 @@ your history organized? How would branches help?
 
 When I want to experiment new features or refactor my code without losing
 the working version.
+
+- How do the diagrams help you visualize the branch structure?
+
+It helps me visualize how a branch work and why i could not be able to
+reach certain commit given the nature of git structure.
