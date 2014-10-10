@@ -14,3 +14,9 @@ a file should be part of the next commit.
 per logical change?
 
 By staging only those files which contributes to the logical change.
+
+- What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+When I want to experiment new features or refactor my code without losing
+the working version.
