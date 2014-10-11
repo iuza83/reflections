@@ -31,3 +31,10 @@ in the diagram the way we do?
 
 The result is the sum of all the commits of two to branches. Because we have 
 nothing better to do.
+
+- What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+
+It can figure out what changes have been made so far and merge automatically 
+two branches, but it can resolve conflict on its own if there is some sort
+of ambiguity during the merge.
