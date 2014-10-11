@@ -25,3 +25,9 @@ the working version.
 
 It helps me visualize how a branch work and why i could not be able to
 reach certain commit given the nature of git structure.
+
+- What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+The result is the sum of all the commits of two to branches. Because we have 
+nothing better to do.
