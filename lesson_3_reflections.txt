@@ -12,3 +12,7 @@ to push intermediate incomplete versions of a branch.
 - Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks means making a copy of a repository in order to being able to make changes without affecting the original repository. Clone is used to copy a repository on your local machine. Branch is used when you would like to explore different paths in your project without affecting the main working branch.
+
+- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is to have the latest changes made to the remote should you be unable to pull the remote in the immediate future.
