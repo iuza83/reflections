@@ -8,3 +8,7 @@ stay up-to-date with your remote repository?
 
 Because it can takes different commits to have a certain change be effective and I don't want
 to push intermediate incomplete versions of a branch.  
+
+- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks means making a copy of a repository in order to being able to make changes without affecting the original repository. Clone is used to copy a repository on your local machine. Branch is used when you would like to explore different paths in your project without affecting the main working branch.
