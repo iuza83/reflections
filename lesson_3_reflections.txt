@@ -20,3 +20,7 @@ The benefit is to have the latest changes made to the remote should you be unabl
 - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use one of the avaible cloud storage services. It would be easier to set a project but it would be harder to track all changes.
+
+- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I will make changes in a separate branch when I know it will take times to complete my changes and I don't want to break the master branch. I will use it either to collaborate with other people and make it sure that my changes are reviewed by my collaborator before being merged to the master branch.
